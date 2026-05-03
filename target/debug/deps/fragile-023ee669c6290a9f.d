@@ -1,0 +1,11 @@
+/Users/bananamo/RDBMS_from_scratch/target/debug/deps/fragile-023ee669c6290a9f.d: /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/lib.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/errors.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/fragile.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/registry.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/semisticky.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/sticky.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/futures.rs
+
+/Users/bananamo/RDBMS_from_scratch/target/debug/deps/libfragile-023ee669c6290a9f.rmeta: /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/lib.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/errors.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/fragile.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/registry.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/semisticky.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/sticky.rs /Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/futures.rs
+
+/Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/lib.rs:
+/Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/errors.rs:
+/Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/fragile.rs:
+/Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/registry.rs:
+/Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/semisticky.rs:
+/Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/sticky.rs:
+/Users/bananamo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.1.0/src/futures.rs:

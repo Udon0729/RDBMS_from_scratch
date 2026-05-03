@@ -16,7 +16,7 @@ async-trait = "0.1" # 非同期トレイト
 # Webフレームワーク
 axum = "0.6"    # Webサーバ
 tower = "0.4"   # HTTPミドルウェア
-tower-trip = { version = "0.4", features = ["cors", "trace"] }
+tower-http = { version = "0.4", features = ["cors", "trace"] }
 
 # 非同期ランタイム
 tokio = { version = "1", features = ["full"] }
@@ -27,7 +27,7 @@ tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 
 # 開発効率化
 derive_more = "0.99"    # ボイラープレート削減
-typed_builder = "0.16"  # ビルダーパターン
+typed-builder = "0.16"  # ビルダーパターン
 strum = { version = "0.25", features = ["derive"] }
 
 # ユーティリティ
@@ -47,6 +47,6 @@ test-case = "3.1"   # パラメータ化テスト
 mockall = "0.11"    # モックオブジェクト
 criterion = "0.5"   # ベンチマーク
 
-[[bench]]
-name = "query_benchmarks"
-harness = false
+# [[bench]]
+# name = "query_benchmarks"
+# harness = false
