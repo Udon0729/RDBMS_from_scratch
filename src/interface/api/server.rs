@@ -1,3 +1,4 @@
+/// Axumを使用した、REST APIサーバの設定と起動処理。/api/query, /api/tables, /api/tables/:nameなどのエンドポイントを定義しており、対応するハンドラと接続する。
 use axum::{
     Router,
     routing::{get, post},
